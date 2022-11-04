@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="348e3616-456d-47ec-b0aa-04f51b941b58" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.md" beforeDir="false" afterPath="$PROJECT_DIR$/404.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_bibliography/publications.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/coauthors.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/presentations.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/profile.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/projects.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/awards.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/blogaside.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/experience.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/favicon.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/hubadditionallinks.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/hubaside.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/interests.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/modal.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/projects.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/pubinfo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/recentpubs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/scripts/jquery.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/scripts/publications.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/skills.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/social.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/hub.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/page.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/portfolio.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/presentations.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/pubhubabsbibtex.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/pubhublinkstemplate.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/publications.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/pubstemplate.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/recentpubstemplate.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/tags.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_plugins/hideCustomBibtex.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-06-08-markdown-and-html.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-06-09-grape-theme-style.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_grape-theme.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/base/_bibliography.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/base/_global.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/base/_highlight.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/base/_utility.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/base/_variable.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/bootstrap/_bootstrap-grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/bootstrap/_functions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/bootstrap/_grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/bootstrap/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/bootstrap/mixins/_breakpoints.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/bootstrap/mixins/_grid-framework.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/bootstrap/mixins/_grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/bootstrap/utilities/_display.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/bootstrap/utilities/_flex.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/bootstrap/utilities/_spacing.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/includes/_aside.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/includes/_footer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/includes/_header.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/includes/_modal.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/includes/_projects.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/includes/_recentpubs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/layouts/_blog.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/layouts/_hub.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/layouts/_portfolio.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/layouts/_post.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/layouts/_presentations.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/layouts/_publications.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/layouts/_tags.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_scripts/publish.d/example.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_scripts/publish.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-chrome-192x192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-chrome-384x384.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple-touch-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/adaptive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/grape.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/koreaSunset.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/modal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/publications.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/smile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/modal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/publications.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/project/home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/project/koreaSunset.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/project/portfolio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/project/tags.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/browserconfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-hub.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon-16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon-32x32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/grape-theme.gemspec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mstile-150x150.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/presentations.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/publications.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/safari-pinned-tab.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site.webmanifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2H4WXoAeZZllwTXBvxKzibvsvSC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/hayu1/Desktop/aabb10.github.io",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="348e3616-456d-47ec-b0aa-04f51b941b58" name="변경" comment="" />
+      <created>1667544877822</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667544877822</updated>
+      <workItem from="1667544879517" duration="153000" />
+      <workItem from="1667545632011" duration="289000" />
+      <workItem from="1667547073396" duration="387000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
