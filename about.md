@@ -1,5 +1,6 @@
 ---
+layout: page
 title: About
-layout: about-me
-permalink: /about/
 ---
+
+So striking at of to welcomed resolved. Northward by described up household therefore attention. Excellence decisively nay man yet impression for contrasted remarkably.
