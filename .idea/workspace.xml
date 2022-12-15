@@ -1,7 +1,157 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7cd694e-ce0a-4e84-b60f-aed06627c2ce" name="변경" comment="" />
+    <list default="true" id="0ddc2584-58e9-4aaa-a2f3-1944d0ccf834" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset-manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/background/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/background/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/background/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/background/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/background/13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/background/14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/background/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/background/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/background/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/background/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/background/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/background/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/background/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/background/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/background/l1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/background/l10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/background/l11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/background/l1b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/background/l2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/background/l2b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/background/l3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/background/l4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/background/l5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/background/l6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/background/l7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/background/l8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/background/l9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog-fashion/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog-fashion/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog-fashion/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog-fashion/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog-fashion/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog-fashion/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog-fashion/avatar-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog-fashion/avatar-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog-fashion/avatar-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog-fashion/big.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog-lawyer/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog-lawyer/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog-lawyer/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog-lawyer/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog-lawyer/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog-lawyer/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/avatar-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/avatar-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/avatar-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/big.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery-big/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery-big/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery-fashion/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery-fashion/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery-fashion/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery-fashion/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery-fashion/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery-fashion/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery-food/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery-food/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery-food/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery-food/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery-food/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery-food/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo-6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo-7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo-dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/misc/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/misc/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/misc/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/misc/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/misc/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/misc/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/misc/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/misc/8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/single-gallery/pf-2-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/single-gallery/pf-2-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/single-gallery/pf-2-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/single-gallery/pf-2-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/single-gallery/pf-2-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/single-gallery/pf-2-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/svg/fish.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/svg/nachos.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/svg/pizza.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/team-lawyer/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/team-lawyer/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/team-lawyer/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ui/arrow-down-invert.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ui/arrow-down-light.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ui/arrow-down-smaller.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ui/arrow-down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ui/arrow-up-invert.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ui/arrow-up-light.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ui/arrow-up-smaller.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ui/arrow-up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ui/btn-close-light.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ui/dotted.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ui/hover_pic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ui/select-arrow-invert.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ui/select-arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/main.21a27e6e.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/main.21a27e6e.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/787.58a9e46a.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/787.58a9e46a.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/main.8629b156.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/main.8629b156.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/main.8629b156.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/main.d39864ba.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/main.d39864ba.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/main.d39864ba.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/ElegantIcons.4555dd9ce623f8fd6d72.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/ElegantIcons.78ba4ad1289e5a66ca11.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/ElegantIcons.941bf29b415d3a9b7099.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/ElegantIcons.a3709f859357b50798d9.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/et-line.3f5eecf9f3326c4d6d81.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/et-line.613c7311d2d5a1dd7e49.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/et-line.cc7129c849c81d254698.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/et-line.d59b23856f66f9876c47.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/fontawesome-webfont.8b43027f47b20503057d.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video/local-video-1.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video/local-video-2.mp4" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,28 +160,57 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IujTKwWKGDAlPG6M0y5vXEXHEI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/hayu1/Desktop/aabb10.github.io",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "yarn",
+    "prettierjs.PrettierConfiguration.Package": "C:\\Users\\hayu1\\AppData\\Roaming\\npm\\node_modules\\prettier",
+    "settings.editor.selected.configurable": "settings.javascript.prettier",
+    "two.files.diff.last.used.file": "C:/Users/hayu1/Desktop/re/kyros/src/pages/homeLight.js",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hayu1\Desktop\re\kyros\src\section" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="0ddc2584-58e9-4aaa-a2f3-1944d0ccf834" name="변경" comment="" />
+      <created>1671038368641</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671038368641</updated>
+      <workItem from="1671038370051" duration="280000" />
+      <workItem from="1671108517067" duration="7391000" />
+      <workItem from="1671117204615" duration="323000" />
+    </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="blog" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
