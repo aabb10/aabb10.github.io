@@ -4,7 +4,7 @@ import { Parallax } from "react-parallax";
 import AOS from "aos";
 AOS.init();
 
-const image1 = "./img/background/l4.jpg";
+const image1 = "./img/background/bg_2.jpg";
 const contact = () => {
   function sendEmail(e) {
     const success = document.getElementById("success");

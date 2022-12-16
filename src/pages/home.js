@@ -14,7 +14,7 @@ import ScrollToTopBtn from "../layout/ScrollToTop";
 import { GlobalStyles } from "./style/light";
 import Particle from "../layout/Particle";
 
-const image1 = "./img/background/l1.jpg";
+const image1 = "./img/background/bg_1.jpg";
 
 function home() {
   return (

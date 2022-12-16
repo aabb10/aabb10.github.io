@@ -39,7 +39,7 @@ const hero = () => {
             data-aos-easing="ease"
             data-aos-once="true"
           >
-            <p>내 설명</p>
+            <p>HTML / CSS / JavaScript를 열심히 공부 중 입니다.</p>
           </div>
         </div>
         <div className="row">
@@ -51,7 +51,7 @@ const hero = () => {
             data-aos-easing="ease"
             data-aos-once="true"
           >
-            <AnimatedProgressProvider valueStart={0} valueEnd={90}>
+            <AnimatedProgressProvider valueStart={0} valueEnd={50}>
               {(value) => {
                 const roundedValue = Math.round(value);
                 return (
@@ -80,7 +80,7 @@ const hero = () => {
             data-aos-easing="ease"
             data-aos-once="true"
           >
-            <AnimatedProgressProvider valueStart={0} valueEnd={85}>
+            <AnimatedProgressProvider valueStart={0} valueEnd={30}>
               {(value) => {
                 const roundedValue = Math.round(value);
                 return (
@@ -99,7 +99,7 @@ const hero = () => {
                 );
               }}
             </AnimatedProgressProvider>
-            <h4 className="mt-2">CSS</h4>
+            <h4 className="mt-2">HTML / CSS</h4>
           </div>
           <div
             className="col-lg-3 p-5 text-center"
@@ -109,7 +109,7 @@ const hero = () => {
             data-aos-easing="ease"
             data-aos-once="true"
           >
-            <AnimatedProgressProvider valueStart={0} valueEnd={80}>
+            <AnimatedProgressProvider valueStart={0} valueEnd={35}>
               {(value) => {
                 const roundedValue = Math.round(value);
                 return (
@@ -128,7 +128,7 @@ const hero = () => {
                 );
               }}
             </AnimatedProgressProvider>
-            <h4 className="mt-2">PHP</h4>
+            <h4 className="mt-2">Python</h4>
           </div>
           <div
             className="col-lg-3 p-5 text-center"
@@ -138,7 +138,7 @@ const hero = () => {
             data-aos-easing="ease"
             data-aos-once="true"
           >
-            <AnimatedProgressProvider valueStart={0} valueEnd={75}>
+            <AnimatedProgressProvider valueStart={0} valueEnd={30}>
               {(value) => {
                 const roundedValue = Math.round(value);
                 return (
@@ -157,7 +157,7 @@ const hero = () => {
                 );
               }}
             </AnimatedProgressProvider>
-            <h4 className="mt-2">Javascript</h4>
+            <h4 className="mt-2">Java</h4>
           </div>
         </div>
       </div>
